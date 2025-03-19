@@ -1,8 +1,6 @@
 <h1 align="center">Gerardo Solis</h1>
 
 <p align="center">
-  Gerardo Solis.
-  <br/>
   Improving through each iteration.
 </p>
 <p align="center">
@@ -33,4 +31,19 @@
   <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
 </p>
+
+---
+
+<h2 align="center">Stats</h2>
+<p align="center">
+  <a href="https://github.com/gsouliss">
+    <img src="https://github-readme-stats.vercel.app/api?username=gsouliss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  </a>
+  </br>
+  <a href="https://github.com/gsouliss">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsouliss&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  </a>
+</p>
+
+---
 
