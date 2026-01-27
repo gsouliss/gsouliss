@@ -1,8 +1,5 @@
-<h1 align="center">Gerardo Solis</h1>
+<h1 align="center">Jerry Solis</h1>
 
-<p align="center">
-  Improving through each iteration.
-</p>
 <p align="center">
   <a href="https://gsoulis.blog">Website</a>
   <br/>
