@@ -1,12 +1,10 @@
-<h1 align="center">Jerry Solis</h1>
-
-<p align="center">
-  <a href="https://gsoulis.blog">Website</a>
-  <br/>
-  <a href="https://www.linkedin.com/in/gerardosolisit/">LinkedIn</a>
+<div align="center">
+  Jerry Solis
 </p>
 
----
+[![Gsoulis Blog](https://img.shields.io/badge/-%23FF0000?style=flat-square&logoColor=%23FFFFFF&logoSize=auto&label=gsoulis.blog&labelColor=555)](https://gsoulis.blog)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat-square&logo=LinkedIn&logoColor=%23FFFFFF&logoSize=auto&label=LinkedIn&labelColor=555)](https://linkedin.com/in/gsoulis)
+[![Profile Viewers](https://komarev.com/ghpvc/?username=jsouliss)](https://github.com/jsouliss/)
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
@@ -28,8 +26,6 @@
   <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
 </p>
-
----
 
 <h2 align="center">Stats</h2>
 <p align="center">
