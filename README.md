@@ -27,15 +27,19 @@
   <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
 </div>
 
-<h2 align="center">Stats</h2>
-<p align="center">
-  <a href="https://github.com/gsouliss">
-    <img src="https://github-readme-stats.vercel.app/api?username=gsouliss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  </a>
+<div align="center">
+  <h2>Stats</h2>
+  <p align="center">
+    <a href="https://github.com/gsouliss">
+      <img src="https://github-readme-stats-delta-coral-28.vercel.app/api?username=gsouliss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=2" />
+    </a>
+  </p>
+</div>
   
   </br>
   
+<div align="center">
   <a href="https://github.com/gsouliss">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsouliss&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
   </a>
-</p>
+</div>
