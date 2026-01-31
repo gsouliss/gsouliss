@@ -6,9 +6,9 @@
 [![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat-square&logo=LinkedIn&logoColor=%23FFFFFF&logoSize=auto&label=LinkedIn&labelColor=555)](https://linkedin.com/in/gsoulis)
 [![Profile Viewers](https://komarev.com/ghpvc/?username=gsouliss)](https://github.com/jsouliss/)
 
-<h2 align="center">Languages and Tools</h2>
-<p align="center">
-  <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+<div align="center">
+  <h2>Languages and Tools</h2>
+  <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
   <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -25,14 +25,16 @@
   <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
-</p>
+</div>
 
 <h2 align="center">Stats</h2>
 <p align="center">
   <a href="https://github.com/gsouliss">
     <img src="https://github-readme-stats.vercel.app/api?username=gsouliss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   </a>
+  
   </br>
+  
   <a href="https://github.com/gsouliss">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsouliss&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
   </a>
