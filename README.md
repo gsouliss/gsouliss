@@ -35,11 +35,13 @@
     </a>
   </p>
 </div>
-  
-  </br>
-  
+
+<!-- 
+</br>
+
 <div align="center">
   <a href="https://github.com/gsouliss">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsouliss&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
   </a>
 </div>
+-->
