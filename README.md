@@ -1,9 +1,7 @@
 <div align="center">
   Jerry Solis
 </p>
-
-[![Profile Viewers](https://komarev.com/ghpvc/?username=gsouliss)](https://github.com/jsouliss/)
-
+  
 <div align="center">
   <h2>Languages and Tools</h2>
   <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
