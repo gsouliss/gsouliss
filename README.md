@@ -1,5 +1,5 @@
 <div align="center">
-  <h1></h1>Jerry Solis**</h1>
+  <h1>Jerry Solis</h1>
   
 <div align="center">
   <h2>Languages and Tools</h2>
