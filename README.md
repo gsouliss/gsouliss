@@ -20,15 +20,11 @@
 <img alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
 
+## Stats
 
-<div align="center">
-  <h2>Stats</h2>
-  <p align="center">
-    <a href="https://github.com/gsouliss">
-      <img src="https://github-readme-stats-delta-coral-28.vercel.app/api?username=gsouliss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=2" />
-    </a>
-  </p>
-</div>
+<a href="https://github.com/gsouliss">
+  <img src="https://github-readme-stats-delta-coral-28.vercel.app/api?username=gsouliss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=2" />
+</a>
 
 <!-- 
 </br>
